@@ -3,8 +3,13 @@ content_type: resource
 description: This resource includes information on fleet planning as part of strategic
   planning process, and approaches to fleet planning, airline selection criteria for
   aircraft acquisition.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/16-75j-airline-management-spring-2006/183208a508ea527ed30bea645e74ff3b_lect16.pdf
+file: /media/courses/16-75j-airline-management-spring-2006/183208a508ea527ed30bea645e74ff3b_lect16.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lect16.pdf
 uid: 183208a5-08ea-527e-d30b-ea645e74ff3b
