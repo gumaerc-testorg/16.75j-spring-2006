@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: The lecture notes section includes the detailed notes for respective
+  lectures.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: ebe3197b-865f-b38c-4c71-e92fd68919d3
 ---
@@ -33,7 +38,7 @@ _Course Introduction_
 \- Introduction to Airline Planning Processes and Systems
 {{< tdclose >}}
 {{< tdopen >}}
-Introduction to the Airline Planning Process ([PDF]({{< baseurl >}}/resources/lect1))
+Introduction to the Airline Planning Process ({{% resource_link 2a8f3b54-4346-0bae-529e-74e26e36a460 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -48,7 +53,7 @@ _Airline Economics Review_
 \- Differential Pricing and Revenues
 {{< tdclose >}}
 {{< tdopen >}}
-Airline Economics Review ([PDF]({{< baseurl >}}/resources/lect2))
+Airline Economics Review ({{% resource_link 10e44483-827a-f2b4-f9a4-c1903c8fb342 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -63,7 +68,7 @@ _Operating Costs and Productivity_
 \- Measures of Aircraft and Labor Productivity
 {{< tdclose >}}
 {{< tdopen >}}
-Operating Costs and Productivity ([PDF]({{< baseurl >}}/resources/lect3))
+Operating Costs and Productivity ({{% resource_link 9bb71aec-4e8b-b7a9-7b73-65dca8def444 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -78,9 +83,9 @@ _Load and Spill Analysis_
 \- Estimation of Unconstrained Demand
 {{< tdclose >}}
 {{< tdopen >}}
-Load Factor Analysis (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lect4a)) (Courtesy of Boeing. Used with permission.)  
+Load Factor Analysis ({{% resource_link 82d69964-30e4-1e70-36f8-27aadd8ea3f3 "PDF" %}}) (Courtesy of Boeing. Used with permission.)  
   
-Airline Demand Analysis and Spill Modeling ([PDF]({{< baseurl >}}/resources/lect4b))
+Airline Demand Analysis and Spill Modeling ({{% resource_link f990b2cd-2141-f75c-d9b3-48051af762e7 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -95,7 +100,7 @@ _Airline Schedule Development_
 \- Timetable Development Issues and Constraints
 {{< tdclose >}}
 {{< tdopen >}}
-Airline Schedule Development ([PDF]({{< baseurl >}}/resources/lect5))
+Airline Schedule Development ({{% resource_link a28aa07c-64a9-83ce-2cd4-75b9f7e32f16 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -110,9 +115,9 @@ _Passenger Choice Models_
 \- Consumer Choice of Path/Fare Options
 {{< tdclose >}}
 {{< tdopen >}}
-Introduction to PODS Passenger Choice Models ([PDF]({{< baseurl >}}/resources/lect6a))  
+Introduction to PODS Passenger Choice Models ({{% resource_link 04374703-df2a-aeeb-5f89-950400d75757 "PDF" %}})  
   
-Decision Window Model (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lect6b)) (Courtesy of Boeing. Used with permission.)
+Decision Window Model ({{% resource_link f4cf28d8-7d1a-c891-f5fa-4ebd5faa557d "PDF" %}}) (Courtesy of Boeing. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -127,7 +132,7 @@ _Introduction to ePODS Airline_ _Management Game_
 \- Overview of Inputs and Outputs
 {{< tdclose >}}
 {{< tdopen >}}
-ePODS Airline Management Educational Game ([PDF]({{< baseurl >}}/resources/lect7))
+ePODS Airline Management Educational Game ({{% resource_link 51574589-0eb0-f2c2-61ee-520fdaa42125 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -157,7 +162,7 @@ _Fleet Assignment Optimization (Prof. Barnhart)_
 \- Leg Independent vs. Itinerary-based Approaches
 {{< tdclose >}}
 {{< tdopen >}}
-Airline Fleet Assignment ([PDF]({{< baseurl >}}/resources/lect9)) (Courtesy of Cynthia Barnhart. Used with permission.)
+Airline Fleet Assignment ({{% resource_link 14bc99df-a4f4-0338-a01b-4b7dff5b83c1 "PDF" %}}) (Courtesy of Cynthia Barnhart. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -187,7 +192,7 @@ _Route Planning and Network Strategies_
 \- Route Profitability Estimation Issues
 {{< tdclose >}}
 {{< tdopen >}}
-Route Planning and Evaluation ([PDF]({{< baseurl >}}/resources/lect11))
+Route Planning and Evaluation ({{% resource_link 2ada818c-ad21-1fb3-3db9-828526cebd4e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -217,7 +222,7 @@ _Scheduling and Operational Constraints_
 \- Demand Driven Dispatch - Flexible Fleet Assignment
 {{< tdclose >}}
 {{< tdopen >}}
-Demand Driven Dispatch (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/boeingddd1))
+Demand Driven Dispatch ({{% resource_link 2292410d-1350-3523-26a9-63e5b83c5e06 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -260,7 +265,7 @@ _Airline Fleet Planning Issues_
 \- Implications for Fleet Changes in ePODS
 {{< tdclose >}}
 {{< tdopen >}}
-Airline Fleet Planning Models ([PDF]({{< baseurl >}}/resources/lect16))
+Airline Fleet Planning Models ({{% resource_link 183208a5-08ea-527e-d30b-ea645e74ff3b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -290,7 +295,7 @@ _Revenue Management Concept and Models_
 \- EMSR Flight Leg Optimization
 {{< tdclose >}}
 {{< tdopen >}}
-Introduction to Revenue Management: Flight Leg Revenue Optimization ([PDF]({{< baseurl >}}/resources/lect18))
+Introduction to Revenue Management: Flight Leg Revenue Optimization ({{% resource_link 2e0689d1-4860-f52f-bd0e-a84a07d48048 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -305,7 +310,7 @@ _Overbooking Methods_
 \- Evolution of Probabilistic/Cost-Based Models
 {{< tdclose >}}
 {{< tdopen >}}
-Flight Overbooking: Models and Practice ([PDF]({{< baseurl >}}/resources/lect19))
+Flight Overbooking: Models and Practice ({{% resource_link 412ade96-37ec-e485-295f-ed96ec8ba876 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -320,7 +325,7 @@ _O-D/Network Seat Inventory Control_
 \- O-D Control Development in Practice
 {{< tdclose >}}
 {{< tdopen >}}
-Network Revenue Management: Origin-Destination Control ([PDF]({{< baseurl >}}/resources/lect20))
+Network Revenue Management: Origin-Destination Control ({{% resource_link 021cc853-6da3-b1ab-8d8d-ba2c90e3a486 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -368,7 +373,7 @@ _Airline Pricing Structures and Strategies_
 \- Implications for Price Changes in ePODS
 {{< tdclose >}}
 {{< tdopen >}}
-Pricing Challenges: ePODS and Reality ([PDF]({{< baseurl >}}/resources/lect23))
+Pricing Challenges: ePODS and Reality ({{% resource_link 1fb9fe7c-6c96-21ce-4cc8-3fec0d0ebb8a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -383,7 +388,7 @@ _Airline Revenue Management Systems_
 \- Relationships to CRS and Distribution
 {{< tdclose >}}
 {{< tdopen >}}
-Origin-Destination Control: What Have We Learned? ([PDF]({{< baseurl >}}/resources/lect24))
+Origin-Destination Control: What Have We Learned? ({{% resource_link 9998cb45-3ec6-ac72-4bc9-38320809a07b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -413,7 +418,7 @@ _Summary: Airline Management Challenges_
 \- Relationship to Current Airline Industry Issues
 {{< tdclose >}}
 {{< tdopen >}}
-Willingness to Pay and Competitive Revenue Management ([PDF]({{< baseurl >}}/resources/lect26))
+Willingness to Pay and Competitive Revenue Management ({{% resource_link fe814f3c-06ee-a4fb-3646-7695531c802a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
