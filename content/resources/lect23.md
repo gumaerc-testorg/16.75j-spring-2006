@@ -4,6 +4,7 @@ description: 'This resource includes information on PODS: passenger choice of pa
   willingness to pay, EPODS baseline fare structure, fare class restriction disutilities,
   and leisure passenger generalized costs.'
 file: /courses/16-75j-airline-management-spring-2006/1fb9fe7c6c9621ce4cc83fec0d0ebb8a_lect23.pdf
+file_size: 261424
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
