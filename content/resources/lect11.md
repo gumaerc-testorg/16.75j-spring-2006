@@ -4,6 +4,7 @@ description: This resource includes information on route planning and evaluation
   route planning models, hub impacts on route planning, measuring route "Profitability",
   and incremental revenues (SYR-OMA).
 file: /courses/16-75j-airline-management-spring-2006/2ada818cad211fb33db9828526cebd4e_lect11.pdf
+file_size: 304230
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -4,6 +4,7 @@ description: This resource includes information on airline revenue maximization,
   RM systems, single-leg fare class seat allocation problem, and EMSRb model for seat
   protection.
 file: /courses/16-75j-airline-management-spring-2006/2e0689d14860f52fbd0ea84a07d48048_lect18.pdf
+file_size: 254843
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -4,6 +4,7 @@ description: This resource includes information on summary of results from over 
   decade of research, and O-D control can increase network revenues, but impact depends
   on many factors.
 file: /courses/16-75j-airline-management-spring-2006/9998cb453ec6ac724bc938320809a07b_lect24.pdf
+file_size: 93741
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
