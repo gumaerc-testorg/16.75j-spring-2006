@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes information on evolution of PODS, PODS capabilities,
   ePODS base network characteristics, and ePODS fleet characteristics.
-file: /courses/16-75j-airline-management-spring-2006/515745890eb0f2c261ee520fdaa42125_lect7.pdf
+file: /ol-ocw-studio-app/courses/16-75j-airline-management-spring-2006/515745890eb0f2c261ee520fdaa42125_lect7.pdf
 file_size: 63485
 file_type: application/pdf
 learning_resource_types:
