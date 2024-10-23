@@ -3,7 +3,7 @@ content_type: resource
 description: This course contains information on objective cost category breakdown,
   functional cost categories, activity drivers by functional category, airline operating
   cost breakdown and aircraft productivity.
-file: /courses/16-75j-airline-management-spring-2006/9bb71aec4e8bb7a97b7365dca8def444_lect3.pdf
+file: /ol-ocw-studio-app/courses/16-75j-airline-management-spring-2006/9bb71aec4e8bb7a97b7365dca8def444_lect3.pdf
 file_size: 346721
 file_type: application/pdf
 learning_resource_types:
