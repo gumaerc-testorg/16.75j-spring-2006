@@ -3,7 +3,7 @@ content_type: resource
 description: This resource includes information on multiple iterations (samples) of
   pre-departure booking process and departure day, and pre-departure process broken
   into time frames.
-file: /ol-ocw-studio-app/courses/16-75j-airline-management-spring-2006/04374703df2aaeeb5f89950400d75757_lect6a.pdf
+file: /courses/16-75j-airline-management-spring-2006/04374703df2aaeeb5f89950400d75757_lect6a.pdf
 file_size: 322935
 file_type: application/pdf
 learning_resource_types:
