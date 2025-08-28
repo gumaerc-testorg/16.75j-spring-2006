@@ -3,7 +3,7 @@ content_type: resource
 description: This resource includes information on airline system level, airline operations
   control, role of AOC in decision flows, typical SOC functions, and SOC automation
   ?load planning.
-file: /courses/16-75j-airline-management-spring-2006/bd0744c28e87b1f461d99708fb45a3f1_lect13a.pdf
+file: /ol-ocw-studio-app/courses/16-75j-airline-management-spring-2006/bd0744c28e87b1f461d99708fb45a3f1_lect13a.pdf
 file_size: 141746
 file_type: application/pdf
 learning_resource_types:
