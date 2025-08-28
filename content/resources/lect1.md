@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes information on airline terminology and measures,
   US airline capacity, airline supply terminology, and fleet planning decisions.
-file: /courses/16-75j-airline-management-spring-2006/2a8f3b5443460bae529e74e26e36a460_lect1.pdf
+file: /ol-ocw-studio-app/courses/16-75j-airline-management-spring-2006/2a8f3b5443460bae529e74e26e36a460_lect1.pdf
 file_size: 175614
 file_type: application/pdf
 learning_resource_types:
