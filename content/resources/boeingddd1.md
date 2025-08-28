@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes information on the problem, its solution, boings
   D3 simulator, and the d3 in operation.
-file: /courses/16-75j-airline-management-spring-2006/2292410d1350352326a963e5b83c5e06_boeingddd1.pdf
+file: /ol-ocw-studio-app/courses/16-75j-airline-management-spring-2006/2292410d1350352326a963e5b83c5e06_boeingddd1.pdf
 file_size: 672982
 file_type: application/pdf
 learning_resource_types:
